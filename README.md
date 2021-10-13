@@ -1,100 +1,12 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+PyCity Educational Analysis
 
+Consideration of class sizes and the ratio of faculty staff and student numbers would be required for the next educational budget review, to either dismiss or confirm the issues raised through analysis of these current results. The ability to compare the productivity and results of students, with a comparison of the class sizing and the teaching assistant available per student, within their budgeted amount per student. These suggestions are thought to be necessary due the unexpected grade results, where children from schools with lower budgets per student, faired better. There were other correlating features noticed which could have impacted these results, such as lower student numbers in these school and that the schools fairing better were all from Charter schools.
+    There was a general pattern of District schools, having higher total student numbers, higher budgets and allowances per child, but at every district school, the overall passing rate for maths was between 65.7% and 68.3%, the lowest maths score at a charter school was 92.5%. This suggests that either class sizes in mathematics are either too large for children to get the individual direction and time they need with a teacher or another anomaly. The budget per child is larger therefore there could be more allocated towards this to ensure District school children are at the same level as those from charter schools. Charter schools have smaller class number, smaller per child budgets but across the board better results.
+    These results indicate the allocation of funding towards the child does not guarantee better results, how this money is pent would be pertinent to correctly gauging the effictiveness of the dollar per child assessment.
+    The top 5 performers were all charter schools, with less than 2300 students, requiring the least funding, These schools should be used as a model to reduce fiscal costs and improve student productivity.
 ## Background
 
-The data dive continues!
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
-
-### Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-## Option 1: Heroes of Pymoli
-
-![Fantasy](Images/Fantasy.png)
-
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analysing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
-
-### Player Count
-
-* Total Number of Players
-
-### Purchasing Analysis (Total)
-
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
-
-### Gender Demographics
-
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
-
-### Purchasing Analysis (Gender)
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
-
-### Age Demographics
-
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Age Group
-
-### Top Spenders
-
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-
-### Most Popular Items
-
-* Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
-### Most Profitable Items
-
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
-As final considerations:
-
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
-
-## Option 2: PyCitySchools
+ PyCitySchools
 
 ![Education](Images/education.png)
 
